@@ -6,6 +6,11 @@
 
 }
 
+.grid-container{
+    max-width: 980px;
+    margin: auto;
+}
+
 
 .blogs-main{
     display: grid;
